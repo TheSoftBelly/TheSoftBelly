@@ -112,56 +112,15 @@ const hyojoon = {
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheSoftBelly&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" />
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-### 💡 Current Focus
-
-```python
-class CurrentGoals:
-    def __init__(self):
-        self.learning = [
-            "Advanced Machine Learning Algorithms",
-            "Natural Language Processing",
-            "Cloud Architecture (AWS)",
-            "Microservices Design Patterns"
-        ]
-        self.building = [
-            "ML-powered NLP applications",
-            "Scalable web services",
-            "Cloud-native applications"
-        ]
-        self.exploring = [
-            "Deep Learning frameworks",
-            "Distributed systems",
-            "DevOps best practices"
-        ]
-
-    def get_status(self):
-        return "Always learning, always growing 🌱"
-
-goals = CurrentGoals()
-print(goals.get_status())
-```
-
----
 
 ### 📫 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/TheSoftBelly)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nomadic.joon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hyojoon-oh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://thesoftbelly.github.io/Profile)
 
 </div>
 
@@ -187,15 +146,6 @@ print(goals.get_status())
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TheSoftBelly/TheSoftBelly/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
