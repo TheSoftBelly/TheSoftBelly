@@ -22,15 +22,6 @@ AI 도구 없이 스스로 만들어보는 것에서 가장 많이 배웁니다.
 | **인프라** | AWS EC2, Vercel |
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSoftBelly&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSoftBelly&layout=compact&theme=default&hide_border=true" height="150"/>
-</div>
-
----
 ## 📬 연락
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheSoftBelly-181717?style=flat&logo=github)](https://github.com/TheSoftBelly)
